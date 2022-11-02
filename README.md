@@ -3,7 +3,8 @@ This is my SmartHome/ IOT project.
 ESP Now: One receiver and three sensor pods.
 Look in the folders for all the files.
 
-If you can, please suggest a sensor I for sonething I don't have.
+If you can, please suggest a sensor I for something I don't have.
+I'm trying to get particulate.
 
 As of 24 October, 2022, these all work.
 Two Pods send data to a Receiver, which displays it on TFT and publishes a webserver. These photos are old.
